@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @DarK13Angel
-- 👀 I’m interested in app development and UI 
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Thomas Joy
+- 👀 I’m interested in system designing and software development.
+- 🌱 I’m a senior software Engineer and working on projects based on VOIP stack and python.
 - 📫 How to reach me tjoy01550@gmail.com
 
 <!---
